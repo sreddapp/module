@@ -1,0 +1,69 @@
+year,date,geo_location,magnitude
+2001,6/21/2001,"Angola,Zambia,Zimbabwe,Mozambique,Madagascar",1.05
+2002,12/4/2002,"Angola, Botswana, Zimbabwe, SouthAfrica, Mozambique,South Australia",1.024
+2003,11/23/2003,East Antarctica,1.038
+2006,3/29/2006,"Brazil, Ghana, Togo, Benin, Nigeria, Niger, Libya,northwest Egypt, Turkey, Georgia, southwestern Russia and Kazakhstan",1.052
+2008,8/1/2008,"Nunavut,northern Greenland,central Russia,western Mongolia,western China",1.039
+2009,7/22/2009,"central and northeastern Pakistan, India, Bhutan, Bangladesh, Myanmar,China,northern part of the RyukyuIslands (Satsunan)",1.08
+2010,7/11/2010,"Southern Chile and Argentina,Southeastern Polynesia",1.058
+2012,11/13/2012,"ArnhemLand and central CapeYorkPeninsula,Australia, KermadecIslands,NewZealand",1.05
+2015,3/20/2015,"FaroeIslands, Svalbard, NorthAtlantic, NorthPole",1.045
+2016,3/9/2016,"Indonesia, Micronesia, MarshallIslands",1.045
+2017,8/21/2017,"Oregon, Idaho, Wyoming, Nebraska,northeastern Kansas, Missouri,Southern Illinois,Western Kentucky, Tennessee,Southwestern NorthCarolina,northeastern Georgia, SouthCarolina",1.031
+2019,7/2/2020,"PitcairnIslands,central Argentina and Chile,TuamotuArchipelago",1.046
+2020,12/14/2020,"Southern Chile and Argentina, Kiribati, Polynesia",1.025
+2021,12/4/2021,Antarctica,1.037
+2024,4/8/2024,"Mexico, central and northeastern UnitedStates,East Canada",1.057
+2026,8/12/2026,"Arctic, Greenland, Iceland, Spain,Northeastern Portugal",1.039
+2027,8/2/2027,"Morocco, Spain, Algeria, Tunisia, Libya, Egypt, SaudiArabia, Yemen, Somalia",1.079
+2028,7/22/2028,"Australia,NewZealand",1.056
+2030,11/25/2030,"Botswana, SouthAfrica, Australia",1.047
+2033,3/30/2033,"east Russia, Alaska",1.046
+2034,3/20/2034,"Nigeria, Cameroon, Chad, Sudan, Egypt, SaudiArabia, Iran, Afghanistan, Pakistan, India,China",1.046
+2035,9/2/2035,"China, Korea,Japan, Pacific",1.032
+2037,7/13/2037,"Australia,NewZealand",1.041
+2038,12/26/2038,"Australia,NewZealand,south Pacific",1.027
+2039,12/15/2039,Antarctica,1.036
+2041,4/30/2041,"Angola, RepublicoftheCongo, Uganda, Kenya, Somalia",1.019
+2042,4/20/2042,"Malaysia, Indonesia, Philippines,north Pacific",1.061
+2043,4/9/2043,northeast Russia,1.01
+2044,8/23/2044,"Greenland,Canada's Northwest Territories and Nunavut, Alberta,southwestern Saskatchewan; Montana, NorthDakota",1.036
+2045,8/12/2045,"south UnitedStates, Haiti, DominicanRepublic, Venezuela, Guyana, FrenchGuyana, Suriname, Brazil",1.077
+2046,8/2/2046,"Brazil, Angola,east Namibia, Botswana,SouthAfrica, Swaziland,south Mozambique",1.053
+2048,12/5/2048,"Chile, Argentina, Namibia, Botswana",1.044
+2052,3/30/2052,"central Pacific,Mexico,United States,central Atlantic",1.047
+2053,9/12/2053,"Spain, Morocco, Algeria, Tunisia, Libya, Egypt, SaudiArabia, Maldives, Indonesia",1.033
+2055,7/24/2055,SouthAfrica,1.036
+2057,1/5/2057,"southern Atlantic,southern IndianOcean",1.029
+2057,12/26/2057,Antarctica,1.035
+2059,5/11/2059,"central Pacific, Ecuador, Peru, Brazil",1.024
+2060,4/30/2060,"IvoryCoast, Ghana, Togo, Benin, Nigeria, Niger, Chad, Libya, Egypt, Turkey, Kazakhstan,Russia",1.066
+2061,4/20/2061,"Kazakhstan,Russia",1.048
+2063,8/24/2063,"China, Mongolia,Japan,central Pacific",1.075
+2064,8/12/2064,"CentralPacific, Chile, Argentina",1.049
+2066,12/17/2066,"Australia,NewZealand,south Pacific",1.042
+2068,5/31/2068,"Australia,NewZealand""",1.011
+2070,4/11/2070,"SriLanka, Myanmar, Thailand, Laos, Vietnam, Philippines",1.047
+2071,9/23/2071,"Mexico, Colombia, Venezuela, Guyana, Suriname, FrenchGuiana, Brazil",1.033
+2072,9/12/2072,Russia,1.056
+2073,8/3/2073,"Chile, Argentina",1.029
+2075,1/16/2075,"Chile, Argentina, Paraguay, Brazil",1.031
+2076,1/6/2076,Antarctica,1.034
+2077,5/22/2077,Australia,1.029
+2078,5/11/2078,"Mexico,UnitedStates",1.07
+2079,5/1/2079,"UnitedStates,Canada, Greenland",1.051
+2081,9/3/2081,"CentralEurope, France, Switzerland, Austria, Slovenia, Hungary, Croatia, Serbia, Romania, Greece, Bulgaria, Turkey, Syria, Iraq, Kuwait, Qatar, UAE, SaudiArabia, Oman",1.072
+2082,8/24/2082,"Indonesia, NewGuinea, SouthPacific",1.045
+2084,12/27/2084,"SouthAtlantic, IndianOcean",1.04
+2086,6/11/2086,"Namibia, Botswana,SouthAfrica",1.017
+2088,4/21/2088,"Mauritania,western Sahara, Mali, Algeria, Tunisia,Greece, Turkey,Russia, Kazakhstan,China",1.047
+2089,10/4/2089,"China, CentralPacific",1.033
+2090,9/23/2090,"Canada, Greenland,UnitedKingdom,France",1.056
+2091,8/15/2091,"southern AntarcticOcean,Antarctica",1.022
+2093,1/27/2093,Australia,1.034
+2094,1/16/2094,Antarctica,1.034
+2095,6/2/2095,"Namibia,SouthAfrica, Botswana, Zambia, Mozambique, Madagascar",1.033
+2096,5/22/2096,"Indonesia, CentralPacific, Philippines",1.074
+2097,5/11/2097,"Alaska,Russia",1.054
+2099,9/14/2099,"Canada,UnitedStates,centralAtlantic",1.068
+2100,9/4/2100,"centralAfrica, Madagascar",1.04
