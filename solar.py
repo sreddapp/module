@@ -10,6 +10,7 @@ import csv
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
+import time
 
 #.csv containing the data on year, date, magnitude and places you will see the total solar eclipse
 myfile="data.csv"
@@ -28,6 +29,13 @@ finally:
         # create key value pairs from the csv file
         for row in file:
             my_dict.append(row)
+
+def remove_non_ascii(text):
+    """
+    Arguments:
+    string: input string for which special characters need to replaces with space
+    """
+    return ''.join(i for i in text if ord(i)<128)
 
 
 def main(start,end):
@@ -50,7 +58,7 @@ def main(start,end):
     for row in my_dict:
         for col in row:
             if int(row[y_key]) >= int(dict_key_start) and int(row[y_key]) <= int(dict_key_end):
-                print(col,": ",row[col])
+                print(col,": ",remove_non_ascii(row[col]))
                 counter = counter + 1
                 if col==m_key:
                     list_magnitude.append(row[col])
@@ -82,7 +90,13 @@ if __name__ == "__main__":
         print("usage: python solar.py <start year> <end year>")
     elif sys.argv[2]< sys.argv[1]:
         print("<end year> should be greater than <start year>")
+    elif int(sys.argv[1])<2000 or int(sys.argv[1])>2100:
+        print("<start year> should be in the 21st century")
+    elif int(sys.argv[2])<2000 or int(sys.argv[2])>2100:
+        print("<end year> should be in the 21st century")
     elif len(sys.argv)==3:
         start_year = sys.argv[1]
         end_year = sys.argv[2]
+        print ("fecthing data............................................")
+        time.sleep(3)
         main(start_year, end_year)
